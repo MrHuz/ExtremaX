@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Coders\B.1. Tree to List\bin\Debug\TreeToList.exe.config
+C:\Users\User\Desktop\Coders\B.1. Tree to List\bin\Debug\TreeToList.exe
+C:\Users\User\Desktop\Coders\B.1. Tree to List\bin\Debug\TreeToList.pdb
+C:\Users\User\Desktop\Coders\B.1. Tree to List\obj\Debug\B.1. Tree to List.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Coders\B.1. Tree to List\obj\Debug\B.1. Tree to List.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Coders\B.1. Tree to List\obj\Debug\TreeToList.exe
+C:\Users\User\Desktop\Coders\B.1. Tree to List\obj\Debug\TreeToList.pdb
