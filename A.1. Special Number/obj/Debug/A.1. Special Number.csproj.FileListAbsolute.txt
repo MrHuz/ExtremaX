@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\A.1. Special Number\bin\Debug\SpecialNumber.exe.config
+C:\Users\User\Desktop\A.1. Special Number\bin\Debug\SpecialNumber.exe
+C:\Users\User\Desktop\A.1. Special Number\bin\Debug\SpecialNumber.pdb
+C:\Users\User\Desktop\A.1. Special Number\obj\Debug\A.1. Special Number.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\A.1. Special Number\obj\Debug\A.1. Special Number.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\A.1. Special Number\obj\Debug\SpecialNumber.exe
+C:\Users\User\Desktop\A.1. Special Number\obj\Debug\SpecialNumber.pdb
